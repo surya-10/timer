@@ -47,6 +47,10 @@ p{
     .newyear{
         font-size: 60px;
     }
+    body{
+        width: 100vw;
+        height: 100vh;
+    }
     p{font-size: 16px;
     }
     .box h2{
@@ -64,6 +68,7 @@ p{
     .newyear{
         font-size: 100px;
     }
+
     p{
         font-size: 26px;
     }
